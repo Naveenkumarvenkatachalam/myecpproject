@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22943" started-at="2020-10-13T11:41:48 IST" finished-at="2020-10-13T11:42:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22943" started-at="2020-10-13T11:41:48 IST" finished-at="2020-10-13T11:42:11 IST">
+      <class name="com.orangehrm.Orangehhexample">
+        <test-method status="PASS" signature="readfomproperty()[pri:0, instance:com.orangehrm.Orangehhexample@1d16f93d]" name="readfomproperty" is-config="true" duration-ms="15536" started-at="2020-10-13T11:41:48 IST" finished-at="2020-10-13T11:42:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readfomproperty -->
+        <test-method status="PASS" signature="Orrnhrm()[pri:0, instance:com.orangehrm.Orangehhexample@1d16f93d]" name="Orrnhrm" duration-ms="7344" started-at="2020-10-13T11:42:04 IST" finished-at="2020-10-13T11:42:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Orrnhrm -->
+      </class> <!-- com.orangehrm.Orangehhexample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
